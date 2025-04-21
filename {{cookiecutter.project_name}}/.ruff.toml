@@ -98,6 +98,7 @@ max-complexity = 10
 ]
 "exceptions.py" = ["D107"]
 "noxfile.py" = ["S101"]
+"docs/conf.py" = ["A001"]
 
 [lint.pydocstyle]
 convention = "google"
